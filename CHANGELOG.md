@@ -1,1 +1,3 @@
 -- PROJETO INICIADO.
+
+- Configurações colocadas
